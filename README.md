@@ -5,7 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ps8847" alt="ps8847" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/ps8847/](https://github.com/ps8847/)
+- 🔭 I’m currently working as MERN Stack Developer
+  
+- 🌱 I’m currently learning NextJs and React-Native
+  
+- 👨‍💻 My CV available at https://drive.google.com/file/d/1h_PaqXe383V2N3JFOwG-Cgckbc422949/view
+  
+- 👨‍💻 My PortFolio @ https://ps8847.github.io/My-DevFolio/index.html
 
 - 📫 How to reach me **ps789650@gmail.com**
 
