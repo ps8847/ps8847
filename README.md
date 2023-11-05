@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working as MERN Stack Developer
   
-- 🌱 I’m currently learning NextJs and React-Native
+- 🌱 I’m currently learning React-Native
   
 - 👨‍💻 My CV available at https://drive.google.com/file/d/1h_PaqXe383V2N3JFOwG-Cgckbc422949/view
   
