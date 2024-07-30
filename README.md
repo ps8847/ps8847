@@ -2,10 +2,6 @@
 <h3 align="center">A Passionate Full Stack Developer From India</h3>
 <h5 align="center">Website + Application Developer</h5>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ps8847&label=Profile%20views&color=0e75b6&style=flat" alt="ps8847" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ps8847" alt="ps8847" /></a> </p>
-
 - 🔭 I’m currently working as MERN Stack Developer
   
 - 🌱 I’m currently learning React-Native
