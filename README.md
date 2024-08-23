@@ -81,8 +81,6 @@
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
 <a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
 <a href="https://www.android.com/intl/en_in/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/android-original-wordmark.svg" alt="Android" height="50" /></a>
-  <a href="https://www.docker.com" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker.svg" alt="Docker" height="50" /></a>
-</div>
 
 </td></tr></table>  
 
