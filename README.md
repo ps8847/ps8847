@@ -12,8 +12,6 @@
 
 - 📫 How to reach me **ps789650@gmail.com**
 
-- ⚡ Fun fact **Running meme page**
-
 <h3 align="left">Connect with me:</h3>
 <div align="center">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/ps8847" target="_blank">
