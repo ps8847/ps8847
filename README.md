@@ -8,7 +8,7 @@
   
 - 👨‍💻 My CV available at [https://drive.google.com/file/d/1h_PaqXe383V2N3JFOwG-Cgckbc422949/view](https://drive.google.com/file/d/1vuwKizEv3Shf-VJShXeWMeKEKfJ5fp7x/view?usp=sharing)
   
-- 👨‍💻 My PortFolio https://ps8847.github.io/My-DevFolio/index.html
+- 👨‍💻 My PortFolio [https://ps8847.github.io/My-DevFolio/index.html](https://ps8847.github.io/devfolio/)
 
 - 📫 How to reach me **ps789650@gmail.com**
 
