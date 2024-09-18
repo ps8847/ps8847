@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Prince Sharma</h1>
 <h3 align="center">A Passionate Full Stack Developer From India</h3>
-<h5 align="center">Website + Application Developer</h5>
+<h5 align="center">Website + React Native Application Developer</h5>
 
 - 🔭 I’m currently working as MERN Stack Developer
   
