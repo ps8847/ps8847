@@ -19,7 +19,7 @@
 </a>
 
 </div>  
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages and Tools:</h3> 
 
 <table><tr><td valign="top" width="33%">
 
